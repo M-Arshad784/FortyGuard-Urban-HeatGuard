@@ -1,0 +1,98 @@
+# 🌡️ Urban HeatGuard
+
+### AI-Powered Urban Heat Intelligence & Cooling Intervention Planning
+
+Urban HeatGuard is an AI-powered urban heat intelligence system that uses **FortyGuard temperature intelligence** to identify heat hotspots, calculate relative heat-risk levels, prioritize intervention zones, and recommend practical cooling solutions.
+
+Instead of only showing temperature data, Urban HeatGuard answers a more important question:
+
+> **"Where should the city act first?"**
+
+---
+
+## 🚀 Live Demo
+
+🌐 **Live Application:**  
+https://fortyguard-urban-heatguard.streamlit.app/
+
+---
+
+## 🎥 Demo Video
+
+A short demonstration video is included with the hackathon submission showing the Urban HeatGuard dashboard, heat maps, hotspot detection, risk analysis, and recommended cooling actions.
+
+---
+
+## 🎯 Problem
+
+Urban areas can experience significant temperature differences across relatively small areas.
+
+Traditional temperature data can tell us:
+
+- How hot an area is
+- What the average temperature is
+- Where temperatures are higher
+
+But decision-makers also need to know:
+
+- 🔥 Which locations are the hottest?
+- 🚨 Which areas require immediate attention?
+- 🎯 Where should cooling resources be prioritized?
+- 🌳 What type of intervention should be considered?
+
+Urban HeatGuard is designed to bridge this gap between **temperature intelligence and actionable urban planning**.
+
+---
+
+## 💡 Solution
+
+Urban HeatGuard transforms spatial temperature data from FortyGuard into an easy-to-understand decision-support dashboard.
+
+### The system:
+
+**FortyGuard Temperature Intelligence**  
+↓  
+**Temperature Analysis**  
+↓  
+**Relative Heat-Risk Scoring**  
+↓  
+**Hotspot Detection**  
+↓  
+**Priority Zone Identification**  
+↓  
+**Cooling Intervention Recommendations**
+
+This allows users to move from:
+
+> **"This area is hot."**
+
+to:
+
+> **"This area should be prioritized for cooling intervention."**
+
+---
+
+# ⭐ Key Features
+
+## 🌡️ 1. Temperature Intelligence
+
+The system analyzes temperature information for individual urban heat zones.
+
+It provides:
+
+- Average temperature
+- Minimum temperature
+- Maximum temperature
+- Temperature variation
+- Total number of analyzed zones
+
+---
+
+## 🔥 2. Heat Hotspot Detection
+
+Urban HeatGuard calculates a relative heat-risk score for each zone.
+
+The score ranges from:
+
+```text
+0 → 100
